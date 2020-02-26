@@ -8,8 +8,8 @@
 
 Free multi-purpose HTML template that has 4 different styles :
 * [Dental Time](http://samanirathemes.samanrashidi.com/dentaltime)
-* [Medical Time](http://samanirathemes.samanrashidi.com/medtime)
 * [Studio Time](http://samanirathemes.samanrashidi.com/studiotime)
+* [Medical Time](http://samanirathemes.samanrashidi.com/medtime)
 * [Tattoo Time](http://samanirathemes.samanrashidi.com/tattootime)
 
 <p>
