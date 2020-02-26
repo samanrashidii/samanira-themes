@@ -16,11 +16,11 @@ Free multi-purpose HTML template that has 4 different styles :
   <a href="https://samanirathemes.netlify.com/dentaltime">
     <img src="http://gallery.samanrashidi.com/dentaltime.jpg" width=300>
   </a>
-  <a href="https://samanirathemes.netlify.com/medtime">
-    <img src="http://gallery.samanrashidi.com/medtime.jpg" width=300>
-  </a>
   <a href="https://samanirathemes.netlify.com/studiotime">
     <img src="http://gallery.samanrashidi.com/studiotime.jpg" width=300>
+  </a>  
+  <a href="https://samanirathemes.netlify.com/medtime">
+    <img src="http://gallery.samanrashidi.com/medtime.jpg" width=300>
   </a>
   <a href="https://samanirathemes.netlify.com/tattootime">
     <img src="http://gallery.samanrashidi.com/tattootime.jpg" width=300>
