@@ -1,0 +1,144 @@
+.fancybox-wrap,
+.fancybox-skin,
+.fancybox-outer,
+.fancybox-inner,
+.fancybox-image,
+.fancybox-wrap iframe,
+.fancybox-wrap object,
+.fancybox-nav,
+.fancybox-nav span,
+.fancybox-tmp{
+	vertical-align: top;
+	padding: 0;
+	margin: 0;
+	outline: none;
+	border: 0;
+}
+
+.fancybox-wrap{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 999999999;
+}
+
+.fancybox-skin{
+	position: relative;
+	color: #444444;
+	text-shadow: none;
+	padding:10px;
+	background: transparent;
+	border-radius: 5px;
+}
+
+.fancybox-opened .fancybox-skin{
+	-webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+}
+
+.fancybox-outer,
+.fancybox-inner{position: relative;}
+
+.fancybox-inner{overflow: hidden;}
+
+.fancybox-type-iframe .fancybox-inner{-webkit-overflow-scrolling: touch;}
+
+.fancybox-error{
+	color: #444444;
+	white-space: nowrap;
+	padding: 15px;
+	margin: 0;
+}
+
+.fancybox-image,
+.fancybox-iframe{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.fancybox-image{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#fancybox-loading{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	cursor: pointer;
+	margin:-20px 0 0 -20px;
+	background-position: 0 -108px;
+	z-index: 999999999;
+}
+
+#fancybox-loading div{
+	width: 40px;
+	height: 40px;
+	background: url('../images/assets/loader.svg') center center no-repeat;
+	background-size: 40px;
+}
+
+.fancybox-close{
+	position: absolute;
+	top: -20px;
+	right: -20px;
+	width: 15px;
+	height: 15px;
+	cursor: pointer;
+	background: url('../images/assets/close.png') no-repeat center;
+}
+
+.fancybox-nav{
+	position: absolute;
+	top:50%;
+	width: 20px;
+	height: 22px;
+	color: transparent;
+	margin-top:-11px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.fancybox-prev{
+	left:-40px;
+	background-image: url('../images/assets/arrow-left.png');
+}
+
+.fancybox-next{
+	right: -40px;
+	background-image: url('../images/assets/arrow-right.png');
+}
+
+.fancybox-nav:hover,
+.fancybox-close:hover{opacity: .8;}
+
+.fancybox-tmp{
+	position: absolute;
+	top: -99999px;
+	left: -99999px;
+	max-width: 99999px;
+	max-height: 99999px;
+	overflow: visible !important;
+	visibility: hidden;
+}
+
+.fancybox-overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+	overflow: hidden;
+	background: rgba(25,25,25, .85);
+	z-index: 999999991;
+}
+
+.fancybox-overlay img{border-radius: 5px;}
+
+.fancybox-overlay-fixed{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	z-index: 999999991;
+}
