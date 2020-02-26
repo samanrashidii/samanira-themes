@@ -7,10 +7,10 @@
 # Samanira multi-purpose template
 
 Free multi-purpose HTML template that has 4 different styles :
-* [Dental Time](http://samanirathemes.samanrashidi.com/dentaltime)
-* [Studio Time](http://samanirathemes.samanrashidi.com/studiotime)
-* [Medical Time](http://samanirathemes.samanrashidi.com/medtime)
-* [Tattoo Time](http://samanirathemes.samanrashidi.com/tattootime)
+* [Dental Time](https://samanirathemes.netlify.com/dentaltime)
+* [Studio Time](https://samanirathemes.netlify.com/studiotime)
+* [Medical Time](https://samanirathemes.netlify.com/medtime)
+* [Tattoo Time](https://samanirathemes.netlify.com/tattootime)
 
 <p>
   <a href="https://samanirathemes.netlify.com/dentaltime">
