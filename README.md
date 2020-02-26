@@ -1,56 +1,42 @@
 <p>
-  <a href="https://lidoma.netlify.com">
-    <img src="https://lidoma.netlify.com/static/images/logo.png" width=170 height=57>
+  <a href="http://samanira.samanrashidi.com">
+    <img src="http://www.samanrashidi.com/img/samanira.be1ce8db.png" width=200 height=138>
   </a>
 </p>
 
-# Lidoma
+# Samanira multi-purpose template
 
-Digital menu for see items and order at Cafe/Restaurant using tablet. This product will help cafes and restaurants to speed up the ordering process and faster payments.
+Free multi-purpose HTML template that has 4 different styles :
+* [Dental Time](http://samanirathemes.samanrashidi.com/dentaltime)
+* [Medical Time](http://samanirathemes.samanrashidi.com/medtime)
+* [Studio Time](http://samanirathemes.samanrashidi.com/studiotime)
+* [Tattoo Time](http://samanirathemes.samanrashidi.com/tattootime)
+
+<p>
+  <a href="https://samanirathemes.netlify.com/dentaltime">
+    <img src="http://gallery.samanrashidi.com/dentaltime.jpg" width=300>
+  </a>
+  <a href="https://samanirathemes.netlify.com/medtime">
+    <img src="http://gallery.samanrashidi.com/medtime.jpg" width=300>
+  </a>
+  <a href="https://samanirathemes.netlify.com/studiotime">
+    <img src="http://gallery.samanrashidi.com/studiotime.jpg" width=300>
+  </a>
+  <a href="https://samanirathemes.netlify.com/tattootime">
+    <img src="http://gallery.samanrashidi.com/tattootime.jpg" width=300>
+  </a>
+</p>
 
 ## Language
 
 English - LTR
 
-Georgian - LTR
-
-## Demo
-
-You can see the demo by clicking below link :
-[https://lidoma.netlify.com](https://lidoma.netlify.com)
-
-## Getting Started
-
-Clone the project from Github:
-
-```
-git clone git@github.com:samanrashidii/lidoma.git
-```
-
-Install and save dependencies:
-
-```
-npm install --save --verbose
-```
-
-Start the project:
-
-```
-npm start
-```
-
-Build project:
-
-```
-npm run build
-```
-
 ## Built With
 
-* Vuejs
 * HTML 5
 * CSS
 * Javascript
+* jQuery
 
 ## Contributing
 
